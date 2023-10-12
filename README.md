@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonardoPeronKrause
 - 👀 I’m interested in  aprender sobre TI
-- 🌱 I’m currently learning  sobre sistemas de informaçao na faculdade Unisul
+- 🌱 I’m currently learning  sobre Analise e Desenvolvimento de Sistemas na faculdade Cesusc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <!---
