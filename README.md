@@ -38,3 +38,16 @@
 </div>
 
 ###
+
+## 📈 Projetos
+
+### 1. Capital Control (https://github.com/LeonardoPeronKrause/CapitalControl)
+- **Descrição**: CapitalControl é um programa completo para gerenciar e monitorar seus investimentos em ações, fundos imobiliários, moedas, renda fixa e criptomoedas. Com uma interface amigável e intuitiva, ele oferece funcionalidades CRUD (Criar, Ler, Atualizar, Excluir), facilitando o acompanhamento do desempenho de seus investimentos. O sistema é integrado a uma API de cotações em tempo real, garantindo que você sempre tenha as informações mais atualizadas para tomar decisões informadas.
+- **Funcionalidades**: Gerenciamento de investimentos com CRUD e integração com API para cotações em tempo real.
+- **Tecnologias Usadas**: 
+  - Linguagem de Programação: Node.js
+  - Banco de Dados: PostgreSQL
+
+### 2. Estante Virtual (https://github.com/LeonardoPeronKrause/EstanteVirtual)
+- **Descrição**: O EstanteVirtual é um sistema CRUD para gerenciar seus livros de forma eficiente.
+- **Tecnologias Usadas**: Node.js e MySQL
