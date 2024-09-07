@@ -10,4 +10,4 @@
 
 ###
 
-<p align="left">## 🚀 Sobre mim<br><br>- 🔭 Atualmente, estou trabalhando em projetos de desenvolvimento backend.<br><br>- 🌱 Estou aprendendo sobre Node.js, Express, Postgresql.<br><br>- 💬 Você pode me encontrar em lperonkrause@gmail.com ou (https://www.linkedin.com/in/leonardo-peron-krause/).</p>
+<p align="left">## 🚀 Sobre mim<br>- 🔭 Atualmente, estou trabalhando em projetos de desenvolvimento backend.<br>- 🌱 Estou aprendendo sobre Node.js, Express, Postgresql.<br>- 💬 Você pode me encontrar em lperonkrause@gmail.com ou (https://www.linkedin.com/in/leonardo-peron-krause/).</p>
