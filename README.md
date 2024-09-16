@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou Leonardo Peron 👋</h1>
+<h1 align="left">Olá, eu sou Leonardo Peron Krause👋</h1>
 
 ###
 
