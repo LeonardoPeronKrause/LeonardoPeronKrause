@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e atuo como Desenvolvedor em Florianópolis, SC. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades em programação.</h2>
+<h2 align="left">Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e atuo como Desenvolvedor em Florianópolis, SC. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades em programação. 🖥️</h2>
 
 ###
 
